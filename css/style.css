@@ -52,8 +52,8 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #be798e;;
-}
+	color: #416fc7; 
+} 
 ul, ol {
 	list-style: none;
 }
@@ -84,7 +84,7 @@ hr {
 	width: 70px;
 	text-align: center;
 	position: relative;
-	background: #be798e;;
+	background: #416fc7;;
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
@@ -130,13 +130,13 @@ hr {
 }
 .navbar-custom .nav li a:hover {
 	outline: 0;
-	color: #be798e;
+	color: #416fc7;
 	background-color: transparent;
 }
 .navbar-custom .nav li a:focus, .navbar-custom .nav li a:active {
 	outline: 0;
 	background-color: transparent;
-	color: #be798e;;
+	color: #416fc7;;
 }
 .navbar-custom .nav li.active {
 	outline: 0;
@@ -162,8 +162,8 @@ hr {
 	background-color: #121d1f;
 	border-color: #121d1f;
 	opacity: .7;
-	/* background-color: #be798e;
-	border-color: #be798e; */
+	/* background-color: #416fc7;
+	border-color: #416fc7; */
 	-webkit-transform: scale(1.05);
 	-moz-transform: scale(1.05);
 	-ms-transform: scale(1.05);
@@ -179,8 +179,8 @@ hr {
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active {
 	color: #fff;
-	background-color: #be798e;;
-	border-color: #be798e;;
+	background-color: #416fc7;;
+	border-color: #416fc7;;
 }
 .btn-primary i.fa {
 	margin-right: 10px;
@@ -194,12 +194,12 @@ hr {
 	text-align: center;
 	color: #fff;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #be798e;;
+	background-color: #416fc7;;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-	background-color: #be798e;;;
+	background-color: #416fc7;;;
 }
 .section-title.center {
 	padding: 25px 0 45px 0;
@@ -225,8 +225,8 @@ hr {
 /* Skills Section */
 #skills {
 	padding: 100px 0;
-	background: #be798e;;
-	background: #be798e;;
+	background: #416fc7;;
+	background: #416fc7;;
 
 }
 #skills h2 {
@@ -296,7 +296,7 @@ ol.type li {
 	margin: 10px;
 }
 ol.type li a {
-	background: #be798e;;
+	background: #416fc7;;
 	color: #fff;
 	padding: 6px 14px;
 }
@@ -408,7 +408,7 @@ ol.type li a:hover {
 /* Achivements Section */
 #achievements {
 	padding: 100px 0;
-	background: #be798e;;
+	background: #416fc7;;
 }
 #achievements h2 {
 	color: #fff;
@@ -538,7 +538,7 @@ ol.type li a:hover {
 #contact {
 	padding: 100px 0 40px 0;
 	color: #121d1f;
-	background: #be798e;;
+	background: #416fc7;;
 }
 #contact h2 {
 	color: #fff;
@@ -655,7 +655,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #a0a5a5;
 }
 #footer a:hover {
-	color: #be798e;;
+	color: #416fc7;;
 }
 
 .portfolio-links{
