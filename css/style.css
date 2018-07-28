@@ -15,8 +15,6 @@ body, html {
 	/* background-color: red; */
 }
 
-
-}
 h1 {
 	font-weight: 700;
 }
@@ -193,6 +191,18 @@ hr {
 	padding: 0px 0;
 	text-align: center;
 	color: #fff;
+	/* font-family: 'Luckiest Guy', cursive; */
+	font-family: 'Bangers', cursive;
+font-family: 'Comfortaa', cursive;
+/* font-family: 'Fontdiner Swanky', cursive; */
+/* font-family: 'Fruktur', cursive; */
+/* font-family: 'Jacques Francois Shadow', cursive; */
+/* font-family: 'Londrina Sketch', cursive; */
+/* font-family: 'Luckiest Guy', cursive; */
+/* font-family: 'Merienda', cursive; */
+/* font-family: 'Nosifer', cursive; */
+/* font-family: 'Oleo Script', cursive; */
+/* font-family: 'Shrikhand', cursive; */
 	background: url(../img/intro-bg.jpg) no-repeat center top;
 	background-color: #416fc7;;
 	-webkit-background-size: cover;
@@ -211,6 +221,10 @@ hr {
 }
 #about .about-text {
 	margin-left: 10px;
+	 font-family: 'Shrikhand', cursive; 
+	 /* font-family: 'Comfortaa', cursive; */
+	 /* font-family: 'Jacques Francois Shadow', cursive; */
+	 font-size: 28px;
 }
 #about img {
 	border-radius: 50%;
@@ -701,7 +715,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro H1 {
 	font-size: 60px;
-	font-weight: 500;
+	/* font-weight: 500; */
 	letter-spacing: -2px;
 
 }
@@ -716,7 +730,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 }
 .intro .intro-text p {
-	font-family: 'Lato', sans-serif;
+	/* font-family: 'Lato', sans-serif; */
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 20px;
