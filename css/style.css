@@ -862,10 +862,10 @@ font-family: Helvetica, Arial, sans-serif
 }
 
 .my-button:hover{
-    /* opacity: .7; */
+  
     background-image: linear-gradient(#dfdfdf 1%, #d6d6d6 48%, #c9c9c9 52%, #b4b4b4 99%);
 
-    /* color: #555454; */
+   
 }
 
 .my-button:active{
